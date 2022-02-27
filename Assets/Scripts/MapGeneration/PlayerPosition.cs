@@ -31,6 +31,7 @@ public class PlayerPosition : ScriptableObject
     {
         segmentId = 0;
         field = 4;
+    
     }
 
     private void OnValidate()
